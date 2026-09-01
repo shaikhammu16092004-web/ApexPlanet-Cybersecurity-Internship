@@ -1,7 +1,10 @@
 Task 4 — Exploitation & System Security
+
 ApexPlanet Software Pvt. Ltd. Internship
+
 Intern: Amir Mustak Shaikh
 Duration: Days 37–48
+
 Lab OS: Kali Linux (VM)
 Target: Localhost (Apache/DVWA), Self (SSH)
 Objective: Learn the penetration testing workflow and exploit vulnerabilities responsibly, then harden the system against similar attacks.
